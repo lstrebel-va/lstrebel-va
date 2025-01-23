@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luke, the Product Manager for the LHDI Secure Release Pipeline team, aka Tornado.
+👋 Hi, I’m Luke, the Product Manager for the LHDI Secure Release Pipeline team, aka Tornado.
 
 Reach me in slack if you want to say hi!
 
